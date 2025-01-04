@@ -1,0 +1,17 @@
+---
+title: "About"
+---
+
+My name is Jonathan Durbin and I am an undergraduate at Northern Illinois University. My major is in General Mathematical Sciences and my minor is in Political Science. My research interests lie in adapting and creating quantitative methodologies for use in International Relations, currently focused on peace and security studies. I am currently writing for the student paper, the Northern Star, and will be presenting at the Midwest Political Science Association Conference in April 2025.
+
+This website was built using Marvin Schmitt's excellent template:
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
+
+Additionally, this website makes use of Cyborg theme from Bootswatch.
+
+Finally, thanks to Dr. Klis and the people over at the Inovasion Studio at NIU, while I didn't end up using the Jekyll based github pages site, it did finally give me an excuse to mess around with this stuff.
