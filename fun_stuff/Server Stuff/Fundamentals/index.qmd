@@ -1,0 +1,21 @@
+---
+title: "Fundamentals"
+format: html
+---
+
+## What do I want:
+
+- RStudio Server (manage 2 instances simultaneously)
+- Shiny web server so that I don't need to pay through the nose for Shiny
+- BlueSky PDS... look, the point of BlueSky is a lightweight, decentralized platform, I'm going to try to do it properly, also a custom handle would be nice
+- Host my website(s)
+- Get free of discord and use a Matrix based voice server
+- Minecraft server because I was a kid growing up in the late 00's and early 2010's
+
+## What is the basic layout:
+- Separate users for each application
+- Use docker containers everywhere, so many containers
+- Use Nginx and Let's Certify for reverse proxy and SSl Certificate stuff
+- Configure DNS settings for domains to point to relevant IP's and ports
+
+That is to say, each service will have its own subdomain with HTTPS setup and a login. Nginx will handle the data routing and get correct data going to the right container, and then each service will have access to only that data. I have two primary goals for this, I want it to simply work how I want it to when I need it to and I want it to help me interact with massive corporations slightly less. I am a novice so while I will try to make sure relevant stuff is protected, security is difficult and no one is targetting me individually. So, the real security will simply be not having anything on the server, that I am not willing to have out in the open. That means no IRB protected data, no family photos, limited access to outside user accounts of mine, etc...

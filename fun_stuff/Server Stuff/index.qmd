@@ -4,3 +4,7 @@ format: html
 ---
 
 Welcome to the Server Stuff page, here I should have all the ideation, documentation, and frustration with setting up and using the server!
+
+## The [Fundamentals](./Fundamentals/index.qmd)
+
+On this page I outline the fundamental architecture for this server... the issue being, this is the first time I am configuring something like this and have effectively no relevant knowledge
