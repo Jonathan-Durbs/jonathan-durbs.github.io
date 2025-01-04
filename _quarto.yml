@@ -1,5 +1,3 @@
-# This file controls the settings for your Quarto template from www.marvinschmitt.com
-
 # website settings
 website:
   title: "Jonathan Durbin"                                # Your name
@@ -39,10 +37,13 @@ website:
   search: 
     location: navbar
     type: textbox
-  page-footer: 
-    center: |
-      <span class="faux-block">&#169; 2025 Jonathan Durbin CC BY-SA 4.0</span>
-
+  page-footer:
+    left: |
+      <span class="faux-block">{{< fa brands creative-commons >}} {{< var years >}} Jonathan Durbin</span>
+      <span class="faux-block">All content licensed under<br>[{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}} Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)</span>      
+    right: |
+      <span class="faux-block">Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)</span>
+      <span class="faux-block">[View the source at {{< fa brands github >}} GitHub]({{< var github-url >}})</span>
 project:
   type: website
   output-dir: docs

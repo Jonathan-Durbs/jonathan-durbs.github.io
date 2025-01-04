@@ -1,28 +1,23 @@
 ---
 title: Projects
+toc: true
+toc-title: Contents
+toc-location: left
 ---
 
-## The Languages of Middle-earth
+## MPSA 2025 Paper
 
-<img src="project_1_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2210.07278', 'blank');"/>
+This paper will argue that many variables in dyadic regression could be improved in a reasonably parsimonious way to better measure the variation in the magnitude of network effects. This paper will focus on Alliance Networks in a continuation to the work of Dr. Leeds and Dr. Johnson. The key to this first paper will be in demonstrating the available variation in alliance integration which the established theory literature posits should alter the effect of being an alliance member. Since the paper is not complete, below is an interactive network map which is the foundation for the paper.
 
-<a href="https://arxiv.org/abs/2210.07278" target="_blank">arXiv Preprint</a> | <a href="https://github.com/marvinschmitt/MetaUncertaintyPaper" target="_blank">Code</a><br>
-
-Over the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion.
+<div style="overflow: hidden; position: relative; width: 100%; height: 100%;">
+  <iframe src="https://jonathan-durbin.shinyapps.io/AllianceNetworkMaps/" 
+          style="border: none; width: 100%; height: 1000px;"
+          allowfullscreen>
+  </iframe>
+</div>
 
 ----
 
-## The History of the War of the Ring
+## BARKS 2023
 
-<img src="project_2_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2112.08866', 'blank');"/>
-
-<a href="https://arxiv.org/abs/2112.08866" target="_blank">arXiv Preprint</a> | <a href="https://github.com/marvinschmitt/ModelMisspecificationBF" target="_blank">Code</a><br>
-
-I am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth's history and provide valuable insights into the motivations and actions of the various players involved.
-
-
-```{=html}
-<div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
-</div>
-```
+In Fall 2023 and Spring 2024, I worked with Dr. Kuehl, Eman Alahmadi, and Oliver Myers on the Behaviors, Attitudes, Resources, and Knowledge of Sustainability Survey (BARKS Survey) available [here](https://www.niu.edu/sustainability/_files/2023-barks-report.docx). The survey was conducted in September and October 2023 with analysis conducted in November and September and the writing of the report done in December and January. Dr. Kuehl and Eman Alahmadi have gone on to use resulting survey experiment data in a paper which has hit the R&R stage. Oliver Myers wrote the bulk of the survey and report with me doing the copy editing. I created the graphs for the report as well as created the commute section of questions. This data was used by me in a term paper and by the Office of Sustainability in its greenhouse gas inventory and its Sustainability, Tracking, Assessment, and Rating System (STARS) report.

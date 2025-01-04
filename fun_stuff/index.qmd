@@ -1,0 +1,177 @@
+---
+title: "Fun Stuff"
+toc: true
+toc-title: Contents
+toc-location: left
+---
+
+Like any of you, I don't only do research, I do other things! This is where I keep session notes from D&D, pictures of miniature painting, woodworking projects, non-research focused coding projects, and other random stuff.
+
+## [Small Improvements](./Small and Systems Improvements/index.qmd)
+
+Taking inspiration from Cortex's Yearly Theme System, I have a yearly theme, this year it is Small and Systems Improvements. That is to say, 2025 is the year of making small improvements in the apartment, my coding environment, etc... as well as getting things to work as they should.
+
+## [Server Stuff](./Server Stuff/index.qmd)
+
+Recently I worked with family to spin up an Ubuntu based server with the hopes of creating easily accessible Virtual Machines.
+
+## Clash of Crowns
+
+Welcome to the "Clash of Crowns" section! Here, you can find the session notes from a D&D campaign I participated in as Roland, a paladin or justice and order... generic I know, but I was mostly there for lore dumps and hanging out with friends, not so much maximizing damage output or extemporaneous RP.
+
+```{=html}
+<div id="sessionCarousel" class="carousel slide" data-bs-ride="carousel" style="max-width: 800px; margin: 0 auto;">
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <div class="row text-center">
+                <div class="col">
+                    <a href="Session 1/index.qmd">
+                        <h5>Session 1: Festivities Gone Wrong</h5>
+                    </a>
+                </div>
+                <div class="col">
+                    <a href="Session 2/index.qmd">
+                        <h5>Session 2: In the Balance</h5>
+                    </a>
+                </div>
+                <div class="col">
+                    <a href="Session 3/index.qmd">
+                        <h5>Session 3: Conspiracy</h5>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <div class="row text-center">
+                <div class="col">
+                    <a href="Session 4/index.qmd">
+                        <h5>Session 4: Steady Player One</h5>
+                    </a>
+                </div>
+                <div class="col">
+                    <a href="Session 5/index.qmd">
+                        <h5>Session 5: Honey! I'm Home</h5>
+                    </a>
+                </div>
+                <div class="col">
+                    <a href="Session 6/index.qmd">
+                        <h5>Session 6: Angel of Dead</h5>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <div class="row text-center">
+                <div class="col">
+                    <a href="Session 7/index.qmd">
+                        <h5>Session 7: A Sleepy Bard</h5>
+                    </a>
+                </div>
+                <div class="col">
+                    <a href="Session 8/index.qmd">
+                        <h5>Session 8: Cost of Court</h5>
+                    </a>
+                </div>
+                <div class="col">
+                    <a href="Session 9/index.qmd">
+                        <h5>Session 9: Were Rat... There Rat!</h5>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <div class="row text-center">
+                <div class="col">
+                    <a href="Session 10/index.qmd">
+                        <h5>Session 10: A Slide of the Moon</h5>
+                    </a>
+                </div>
+                <div class="col">
+                    <a href="Session 11/index.qmd">
+                        <h5>Session 11: Conaries in a Coal Mine</h5>
+                    </a>
+                </div>
+                <div class="col">
+                    <a href="Session 12/index.qmd">
+                        <h5>Session 12: Hexblade's Extended Warranty</h5>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <div class="row text-center">
+                <div class="col">
+                    <a href="Session 13/index.qmd">
+                        <h5>Session 13: Operation Thunderstorm</h5>
+                    </a>
+                </div>
+                <div class="col">
+                    <a href="Session 14/index.qmd">
+                        <h5>Session 14: Whoops</h5>
+                    </a>
+                </div>
+                <div class="col">
+                    <a href="Session 15/index.qmd">
+                        <h5>Session 15: Plundering and Privateering Plenipotentiaries</h5>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <div class="row text-center">
+                <div class="col">
+                    <a href="Session 16/index.qmd">
+                        <h5>Session 16: Ruh Roh Raggy</h5>
+                    </a>
+                </div>
+                <div class="col">
+                    <a href="Session 17/index.qmd">
+                        <h5>Session 17: Golden Piety vs Silver Metal</h5>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#sessionCarousel" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#sessionCarousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
+
+<style>
+.carousel-control-prev, .carousel-control-next {
+    z-index: 100; /* Ensure buttons are on top */
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    border-radius: 50%; /* Make buttons circular */
+    width: 30px; /* Set smaller width */
+    height: 30px; /* Set smaller height */
+    display: flex; /* Use flexbox for centering */
+    align-items: center; /* Center the icon vertically */
+    justify-content: center; /* Center the icon horizontally */
+    position: absolute; /* Position absolutely */
+    top: 50%; /* Center vertically */
+    transform: translateY(-50%); /* Adjust for half the height */
+}
+
+.carousel-control-prev {
+    left: -30px; /* Position to the left */
+}
+
+.carousel-control-next {
+    right: 10px; /* Position to the right */
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    width: 20px; /* Adjust icon size */
+    height: 20px; /* Adjust icon size */
+}
+</style>
+```
+
+## [Woodworking](./Woodworking/index.qmd)
+
+Put simply, during breaks, instead of vegging out or doing the work I should probably be doing, I spend the vast majority of my waking hours in the workshop making stuff.

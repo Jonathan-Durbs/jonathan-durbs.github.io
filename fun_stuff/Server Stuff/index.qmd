@@ -1,0 +1,6 @@
+---
+title: "Server Stuff"
+format: html
+---
+
+Welcome to the Server Stuff page, here I should have all the ideation, documentation, and frustration with setting up and using the server!

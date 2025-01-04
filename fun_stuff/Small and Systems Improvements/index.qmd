@@ -1,0 +1,10 @@
+---
+title: "Small and Systems Improvements"
+format: html
+---
+
+- Remove crease from rug so that closet door opens easily
+- Configure windows and camera so that Windows Hello always works
+- Figure out locally managed system for proximity sensing with webcam
+- Create plan for server
+- Create documentation for changes made to server
