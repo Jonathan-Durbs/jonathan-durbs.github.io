@@ -14,4 +14,4 @@ This website was built using Marvin Schmitt's excellent template:
 
 Additionally, this website makes use of Cyborg theme from Bootswatch.
 
-Finally, thanks to Dr. Klis and the people over at the Inovasion Studio at NIU, while I didn't end up using the Jekyll based github pages site, it did finally give me an excuse to mess around with this stuff.
+Finally, thanks to Dr. Klis and the people over at the Innovation Studio at NIU, while I didn't end up using the Jekyll based github pages site, it did finally give me an excuse to mess around with this stuff.
